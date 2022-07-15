@@ -1,6 +1,7 @@
 # Project Management System in GraphQL, MongoDB, Expressjs, React, Nodejs
 
 ![CHEESE!](screen1.png)
+![CHEESE!](screen2.png)
 
 # Features of this PMS in GraphQL, MongoDB, Expressjs, React, Nodejs
 
